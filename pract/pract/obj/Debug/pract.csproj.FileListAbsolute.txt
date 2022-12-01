@@ -1,0 +1,7 @@
+C:\Users\Надя\Desktop\Новая папка\pract\pract\bin\Debug\pract.exe.config
+C:\Users\Надя\Desktop\Новая папка\pract\pract\bin\Debug\pract.exe
+C:\Users\Надя\Desktop\Новая папка\pract\pract\bin\Debug\pract.pdb
+C:\Users\Надя\Desktop\Новая папка\pract\pract\obj\Debug\pract.csprojAssemblyReference.cache
+C:\Users\Надя\Desktop\Новая папка\pract\pract\obj\Debug\pract.csproj.CoreCompileInputs.cache
+C:\Users\Надя\Desktop\Новая папка\pract\pract\obj\Debug\pract.exe
+C:\Users\Надя\Desktop\Новая папка\pract\pract\obj\Debug\pract.pdb
